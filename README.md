@@ -15,5 +15,5 @@ convolutional neural networks. Here is some neural style results.
 <div align="center">
  <img src="https://drive.google.com/file/d/11TXR-ZtjQB_Z6ozUFyUlrhKnSzEhs5kk/view?usp=sharing" height="223px">
  <img src="https://drive.google.com/open?id=1jzTgWuuFXsvbglkfIPfMrJ1IeoaQvb62" height="223px">
- <img src="https://github.com/ly-atdawn/Neural-Style/results/hoovertowernight_starry_night_lr-0.1.png" width="710px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/results/hoovertowernight_starry_night_lr-0.1.png" width="710px">
 </div>
