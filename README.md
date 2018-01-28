@@ -13,7 +13,7 @@ The paper presents an algorithm for combining the content of one image with the 
 convolutional neural networks. Here is some neural style results.
 
 <div align="center">
- <img src="https://drive.google.com/open?id=1UMHUl_nLPLSw9F3YodpcenpPXUIarIY4" height="223px">
+ <img src="https://drive.google.com/file/d/11TXR-ZtjQB_Z6ozUFyUlrhKnSzEhs5kk/view?usp=sharing" height="223px">
  <img src="https://drive.google.com/open?id=1jzTgWuuFXsvbglkfIPfMrJ1IeoaQvb62" height="223px">
  <img src="https://drive.google.com/open?id=11TXR-ZtjQB_Z6ozUFyUlrhKnSzEhs5kk" width="710px">
 </div>
