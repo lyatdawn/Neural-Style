@@ -13,19 +13,19 @@ The paper presents an algorithm for combining the content of one image with the 
 convolutional neural networks. Here is some neural style results.
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/starry_night.jpg" height="223px">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/hoovertowernight.jpg" height="223px">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/results/hoovertowernight_starry_night_lr-0.1.png" width="710px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/starry_night.jpg" height="223px" width="310px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/hoovertowernight.jpg" height="223px" width="400px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/results/hoovertowernight_starry_night_lr-0.1.png" height="512px" width="710px">
 </div>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/starry_night.jpg" height="223px">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/golden_gate.jpg" height="223px">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/results/golden_gate_starry_night_result-lr1e-10.png" width="710px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/starry_night.jpg" height="223px" width="310px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/golden_gate.jpg" height="223px" width="400px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/results/golden_gate_starry_night_result-lr1e-10.png" height="512px" width="710px">
 </div>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/the_scream.jpg" height="223px">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/tubingen.jpg" height="223px">
- <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/results/tubingen_the_scream_result-lr1e-10.png" width="710px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/the_scream.jpg" height="223px" width="310px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/tubingen.jpg" height="223px" width="400px">
+ <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/results/tubingen_the_scream_result-lr1e-10.png" height="512px" width="710px">
 </div>
