@@ -29,3 +29,10 @@ convolutional neural networks. Here is some neural style results.
  <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/datasets/tubingen.jpg" height="223px" width="400px">
  <img src="https://raw.githubusercontent.com/ly-atdawn/Neural-Style/master/results/tubingen_the_scream_result-lr1e-10.png" height="512px" width="710px">
 </div>
+
+## Usage
+* Run the following script to transform the style of content image, in the process of training, will save the result images finally. See the **neural-style.py** for details.
+ ```shell
+ python neural-style.py
+ ```
+ You can change the arguments in neural-style.py depend on your machine config, or achieve a good results.
